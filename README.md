@@ -16,8 +16,8 @@ To run the application locally, you'll need to have Node.js and npm installed on
     ```shell
     git clone https://github.com/3ux1n3/OpenAI-UI.git
     ```
-
-2. CD into the directory and run the following commands
+2. edit the .env file with your OPENAI API key
+3. CD into the directory and run the following commands
 
     ```shell
     npm install
